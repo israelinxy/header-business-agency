@@ -1,13 +1,13 @@
 {
-  "name": " ",
+  "name": "Header Business Agency",
   "version": "0.0.1",
-  "description": "",
+  "description": "Header preparado para una pantalla de 1200px de ancho",
   "private": true,
   "keywords": [
     ""
   ],
-  "license": "",
-  "author": "",
+  "license": "MIT",
+  "author": "Israel Collado",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack serve --open --config webpack.config.dev.js",
