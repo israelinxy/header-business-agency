@@ -5,7 +5,7 @@ Este proyecto presenta una Header de una agencia de negocios preparado para una 
 ---
 
 <div align="center">
-  <img src="business-agency.png" alt="Header de una agencia de negocios" width="55%"/>
+  <img src="business-agency.png" alt="Header de una agencia de negocios" width="100%"/>
 </div>
 
 
